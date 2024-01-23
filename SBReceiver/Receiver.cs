@@ -11,7 +11,7 @@ namespace SBReceiver
 {
     public class Receiver
     {
-        const string connectionString = "Endpoint=sb://nuthanprakashservicebus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=LkFpWbMUT82j8bI0rfzjy+yeuemhPycMj+ASbKXk7BE=";
+        const string connectionString = "";
         const string queueName = "personqueue";
         static IQueueClient queueClient;
 
