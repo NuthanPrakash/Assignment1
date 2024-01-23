@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "inHHkRxY0FWonGJVca51B+MjKFIKFns1VcNVP2j10abYdCs+9mxi69gmssurpmkecnKOHzDcSJxaAFqaE0po6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nuthan.Prakash\\Assignments\\Assignment1\\SBShared\\SBShared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nuthan.Prakash\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

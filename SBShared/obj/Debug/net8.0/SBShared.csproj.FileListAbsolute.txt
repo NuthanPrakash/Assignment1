@@ -1,0 +1,11 @@
+C:\Users\Nuthan.Prakash\source\repos\SBSender\SBShared\bin\Debug\net8.0\SBShared.deps.json
+C:\Users\Nuthan.Prakash\source\repos\SBSender\SBShared\bin\Debug\net8.0\SBShared.dll
+C:\Users\Nuthan.Prakash\source\repos\SBSender\SBShared\bin\Debug\net8.0\SBShared.pdb
+C:\Users\Nuthan.Prakash\source\repos\SBSender\SBShared\obj\Debug\net8.0\SBShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuthan.Prakash\source\repos\SBSender\SBShared\obj\Debug\net8.0\SBShared.AssemblyInfoInputs.cache
+C:\Users\Nuthan.Prakash\source\repos\SBSender\SBShared\obj\Debug\net8.0\SBShared.AssemblyInfo.cs
+C:\Users\Nuthan.Prakash\source\repos\SBSender\SBShared\obj\Debug\net8.0\SBShared.csproj.CoreCompileInputs.cache
+C:\Users\Nuthan.Prakash\source\repos\SBSender\SBShared\obj\Debug\net8.0\SBShared.dll
+C:\Users\Nuthan.Prakash\source\repos\SBSender\SBShared\obj\Debug\net8.0\refint\SBShared.dll
+C:\Users\Nuthan.Prakash\source\repos\SBSender\SBShared\obj\Debug\net8.0\SBShared.pdb
+C:\Users\Nuthan.Prakash\source\repos\SBSender\SBShared\obj\Debug\net8.0\ref\SBShared.dll
